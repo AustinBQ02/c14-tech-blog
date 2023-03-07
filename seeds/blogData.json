@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "title": "5 Tips for Better Time Management",
+      "content": "Time management is crucial for success, but it's not always easy to master. Here are five tips to help you make the most of your time: 1) Prioritize your tasks; 2) Use a calendar or planner; 3) Minimize distractions; 4) Take breaks; 5) Learn to say no.",
+      "user_id": 1
+    },
+    {
+      "id": 2,
+      "title": "The Benefits of Yoga for Mind and Body",
+      "content": "Yoga is a popular form of exercise that can provide numerous benefits for both the mind and body. Some of the benefits of yoga include increased flexibility, reduced stress and anxiety, improved sleep, and better overall physical fitness. Additionally, practicing yoga regularly can help you cultivate mindfulness and awareness, leading to a greater sense of inner peace and contentment.",
+      "user_id": 2
+    },
+    {
+      "id": 3,
+      "title": "The Pros and Cons of Remote Work",
+      "content": "With the rise of technology and the COVID-19 pandemic, remote work has become more common than ever before. While there are certainly benefits to working from home, such as increased flexibility and reduced commuting time, there are also some downsides to consider. Some of the cons of remote work include feelings of isolation, difficulty with work-life balance, and reduced opportunities for social interaction and networking. As with any major decision, it's important to carefully weigh the pros and cons before deciding if remote work is right for you",
+      "user_id": 3
+    }
+  ]

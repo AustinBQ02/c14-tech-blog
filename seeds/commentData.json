@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Everything is a priority!",
+    "post_id": 1,
+    "user_id": 2
+  },
+  {
+    "content": "I tried it once. Didn't like it.",
+    "post_id": 2,
+    "user_id": 3
+  },
+  {
+    "content": "I prefer WFH.",
+    "post_id": 3,
+    "user_id": 1
+  },
+  {
+    "content": "testing... testing... ",
+    "post_id": 1,
+    "user_id": 2
+  },
+  {
+    "content": "Or I could just stay at my computer all day!",
+    "post_id": 2,
+    "user_id": 3
+  },
+  {
+    "content": "Well said!",
+    "post_id": 3,
+    "user_id": 1
+  }
+]
