@@ -2,16 +2,19 @@
   {
     "id": 1,
     "username": "Sal",
+    "email": "sal@testmail.com",
     "password": "password12345"
   },
   {
     "id": 2,
     "username": "Lernantino",
+    "email": "lern@testmail.com",
     "password": "password12345"
   },
   {
     "id": 3,
     "username": "Amiko",
+    "email": "amiko@testmail.com",
     "password": "password12345"
   }
 ]
