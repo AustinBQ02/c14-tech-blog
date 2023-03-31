@@ -4,12 +4,7 @@ UT Coding Bootcamp - Model-View-Controller (MVC) Challenge: Tech Blog
 
 ## Description
 
-> Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:  
->   
-> - What was your motivation?  
-> - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")  
-> - What problem does it solve?  
-> - What did you learn?  
+This app is a CMS-style blog site, similar to a Wordpress site, where developers can publish blog posts and comment on posts from others. It utilizes Handlebars.js, Sequelize, and is deployed to Heroku.
 
 ## Table of Contents
 
@@ -20,7 +15,6 @@ UT Coding Bootcamp - Model-View-Controller (MVC) Challenge: Tech Blog
 
 ## Installation
 
-> What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 Dependencies: 
 
 - https://www.npmjs.com/package/express
@@ -35,22 +29,17 @@ Dependencies:
 
 ## Usage
 
-> Provide instructions and examples for use. Include screenshots as needed.
->   
-> To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:  
->   
->   `![alt text](assets/images/screenshot.png)`
+https://c14-tech-blog.herokuapp.com/
 
 
 ## Credits
 
-> List your collaborators, if any, with links to their GitHub profiles.
-> 
-> If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-> 
-> If you followed tutorials, include links to those here as well.
 
 Full-Stack Blog - [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+
+UT Coding Bootcamp Module 14
+
+Connor Bodin - https://github.com/connorbodin
 
 ## License
 
