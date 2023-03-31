@@ -15,7 +15,6 @@ This app is a CMS-style blog site, similar to a Wordpress site, where developers
 
 ## Installation
 
-> What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 Dependencies: 
 
 - https://www.npmjs.com/package/express
